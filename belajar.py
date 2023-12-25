@@ -1,1 +1,0 @@
-print ("""belajar dulu teman teman""" )
